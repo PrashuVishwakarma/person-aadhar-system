@@ -53,4 +53,4 @@ mvn spring-boot:run
 | GET | /api/persons/aadhar/{aadharNo} | Search by Aadhar |
 
 ## Author
-Your Name - [GitHub](https://github.com/prashuvishwakarma)
+Your Name - [GitHub](https://github.com/prashu-vishwakarma)
